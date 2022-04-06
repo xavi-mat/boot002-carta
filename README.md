@@ -7,7 +7,7 @@ Ejercicio carta estilizada: https://github.com/TheBridge-FullStackDeveloper/css-
 ## En este repositorio
 
 * `index.html`: Ejercicio carta sin CSS.
-* `letter-stylized.html`, `style.css`: Ejercicio casta estilizada con CSS.
+* `letter-stylized.html`, `style.css`: Ejercicio carta estilizada con CSS.
 
 
 
